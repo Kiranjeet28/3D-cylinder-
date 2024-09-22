@@ -1,7 +1,7 @@
 import { Canvas } from '@react-three/fiber'
 import './App.css'
 import { OrbitControls } from '@react-three/drei'
-import { Scene } from './Scene'
+import { Scene } from './Scene.jsx'
 import { Bloom, EffectComposer, ToneMapping } from '@react-three/postprocessing'
 function App() {
  
