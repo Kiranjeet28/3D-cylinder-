@@ -2,7 +2,6 @@
   "name": "3d",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kiranjeet28.github.io/3D-cylinder-",
   "type": "module",
   "scripts": {
     "predeploy": "pnpm run build",
